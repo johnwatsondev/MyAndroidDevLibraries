@@ -22,6 +22,9 @@ A small Android library to manage one-off operations.
 ###### [interviewproblems](https://github.com/techpanja/interviewproblems)
 Tackling various problems asked in technical interviews
 
+###### [guides](https://github.com/thoughtbot/guides)
+A guide for programming in style. https://robots.thoughtbot.com
+
 
 #### Dex Method Counts
 
@@ -70,6 +73,9 @@ Try the demo project of any Android Library
 
 #### Test & Mock
 
+###### [assertj-android](https://github.com/square/assertj-android)
+A set of AssertJ helpers geared toward testing Android.
+
 ###### [EspressoExamples](https://github.com/vgrec/EspressoExamples)
 A collection of examples demonstrating different techniques for automated testing with Espresso.
 
@@ -94,6 +100,9 @@ Gradle plugin to be used in combination with the new unit testing feature of the
 ###### [android-classyshark](https://github.com/google/android-classyshark)
 Android executables browser
 
+###### [jadx](https://github.com/skylot/jadx)
+Dex to Java decompiler
+
 
 #### Proguard
 
@@ -108,3 +117,51 @@ proguard resource for Android by wechat team
 
 ###### [Prism](https://github.com/StylingAndroid/Prism)
 A dynamic colouring library for Android
+
+
+#### Log
+
+###### [logger](https://github.com/orhanobut/logger)
+Simple, pretty and powerful logger for android
+
+###### [timber](https://github.com/JakeWharton/timber)
+A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+
+###### [hugo](https://github.com/JakeWharton/hugo)
+Annotation-triggered method call logging for your debug builds.
+
+
+#### Parceler
+
+###### [parceler](https://github.com/johncarl81/parceler)
+Android Parcelables made easy through code generation.
+
+
+#### String
+
+###### [phrase](https://github.com/square/phrase)
+Phrase is an Android string resource templating library
+
+
+#### Quality
+
+###### [vb-android-app-quality](https://github.com/vincentbrison/vb-android-app-quality)
+Sample android project using Gradle, with basic quality tools set up.
+
+###### [Android-Device-Compatibility](https://github.com/mixi-inc/Android-Device-Compatibility)
+Compatibility package project for android device difference.
+
+
+#### AS Plugins
+
+###### [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny)
+Android Studio plug-in for generating ButterKnife injections from selected layout XML.
+
+###### [GsonFormat](https://github.com/zzz40500/GsonFormat)
+根据Gson库使用的要求,将JSONObject格式的String 解析成实体
+
+
+#### Utils
+
+###### [standardlib](https://github.com/stablekernel/standardlib)
+The missing Android framework classes
