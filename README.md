@@ -10,6 +10,9 @@ Utility for detecting and notifying when your Android app goes background / beco
 ###### [json-server](https://github.com/typicode/json-server)
 Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
+###### [Once](https://github.com/jonfinerty/Once)
+A small Android library to manage one-off operations.
+
 
 #### Dex Method Counts
 
@@ -39,3 +42,42 @@ Converter LoganSquare for retrofit
 
 ###### [TinyDancer](https://github.com/brianPlummer/TinyDancer)
 An android library for displaying fps from the choreographer and percentage of time with two or more frames dropped
+
+
+#### Permissions
+
+###### [Dexter](https://github.com/Karumi/Dexter)
+Android library that simplifies the process of requesting permissions at runtime.
+
+
+#### Command Line Tool
+
+###### [alfi](https://github.com/cesarferreira/alfi)
+Android Library Finder
+
+
+#### Test & Mock
+
+###### [EspressoExamples](https://github.com/vgrec/EspressoExamples)
+A collection of examples demonstrating different techniques for automated testing with Espresso.
+
+###### [rxpresso](https://github.com/novoda/rxpresso)
+Easy Espresso UI testing for Android applications using RxJava.
+
+###### [android-gradle-java-template](https://github.com/jaredsburrows/android-gradle-java-template)
+Gradle + Android Studio + Robolectric + Espresso + Mockito + EasyMock/PowerMock + JaCoCo
+
+###### [unmock-plugin](https://github.com/bjoernQ/unmock-plugin)
+Gradle plugin to be used in combination with the new unit testing feature of the Gradle Plugin / Android Studio to use real classes for e.g. SparseArray.
+
+
+#### Decompile
+
+###### [android-classyshark](https://github.com/google/android-classyshark)
+Android executables browser
+
+
+#### Proguard
+
+###### [AndResGuard](https://github.com/shwenzhang/AndResGuard)
+proguard resource for Android by wechat team
