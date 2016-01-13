@@ -12,3 +12,19 @@ Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 ###### [dex-method-counts](https://github.com/mihaip/dex-method-counts)
 Command-line tool to count per-package methods in Android .dex files
+
+###### [dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin)
+A Gradle plugin to report the number of method references in your APK on every build.
+
+###### [apk-method-count](https://github.com/inloop/apk-method-count)
+Output per-package method counts in Android APK
+
+###### [LoganSquare](https://github.com/bluelinelabs/LoganSquare)
+Screaming fast JSON parsing and serialization library for Android.
+
+###### [retrofit-logansquare](https://github.com/aurae/retrofit-logansquare)
+A Converter implementation using LoganSquare JSON serialization for Retrofit 2.
+
+###### [converter-logansquare-retrofit](https://github.com/yongjhih/converter-logansquare-retrofit)
+Converter LoganSquare for retrofit
+
