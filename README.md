@@ -67,6 +67,9 @@ Easy Espresso UI testing for Android applications using RxJava.
 ###### [android-gradle-java-template](https://github.com/jaredsburrows/android-gradle-java-template)
 Gradle + Android Studio + Robolectric + Espresso + Mockito + EasyMock/PowerMock + JaCoCo
 
+###### [Android-Boilerplate](https://github.com/hitherejoe/Android-Boilerplate)
+Android Boilerplate project using an Espresso Test Module and Robolectric Unit Tests
+
 ###### [unmock-plugin](https://github.com/bjoernQ/unmock-plugin)
 Gradle plugin to be used in combination with the new unit testing feature of the Gradle Plugin / Android Studio to use real classes for e.g. SparseArray.
 
