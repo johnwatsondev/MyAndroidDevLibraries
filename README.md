@@ -157,6 +157,15 @@ Compatibility package project for android device difference.
 ###### [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny)
 Android Studio plug-in for generating ButterKnife injections from selected layout XML.
 
+###### [lombok-intellij-plugin](https://github.com/mplushnikov/lombok-intellij-plugin)
+Lombok Plugin for IntelliJ IDEA
+
+###### [Android Methods Count](http://www.methodscount.com/)
+A simple Studio/IntelliJ plugin that parses your Android library dependencies and shows the methods count as an handy hint.
+
+###### [adb-idea](https://github.com/pbreault/adb-idea)
+A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
+
 ###### [GsonFormat](https://github.com/zzz40500/GsonFormat)
 根据Gson库使用的要求,将JSONObject格式的String 解析成实体
 
