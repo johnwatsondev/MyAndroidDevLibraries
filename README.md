@@ -1,23 +1,22 @@
-###### [RoboGif](https://github.com/izacus/RoboGif)
-A small utility to record Android device screen to a GIF
-
-###### [androidtool-mac](https://github.com/mortenjust/androidtool-mac)
-One-click screenshots, video recordings, app installation for iOS and Android
-
 ###### [LicensesDialog](https://github.com/PSDev/LicensesDialog)
 An open source library to display licenses of third-party libraries in an Android app.
 
 ###### [Foredroid](https://github.com/steveliles/Foredroid)
 Utility for detecting and notifying when your Android app goes background / becomes foreground
 
-###### [json-server](https://github.com/typicode/json-server)
-Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-
 ###### [Once](https://github.com/jonfinerty/Once)
 A small Android library to manage one-off operations.
 
 ###### [interviewproblems](https://github.com/techpanja/interviewproblems)
 Tackling various problems asked in technical interviews
+
+#### Mock Server
+
+###### [json-server](https://github.com/typicode/json-server)
+Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+
+
+#### Program Style
 
 ###### [guides](https://github.com/thoughtbot/guides)
 A guide for programming in style. https://robots.thoughtbot.com
@@ -33,6 +32,21 @@ A Gradle plugin to report the number of method references in your APK on every b
 
 ###### [apk-method-count](https://github.com/inloop/apk-method-count)
 Output per-package method counts in Android APK
+
+
+#### Handy Tool
+
+###### [RoboGif](https://github.com/izacus/RoboGif)
+A small utility to record Android device screen to a GIF
+
+###### [androidtool-mac](https://github.com/mortenjust/androidtool-mac)
+One-click screenshots, video recordings, app installation for iOS and Android
+
+###### [svg2android](https://github.com/inloop/svg2android)
+SVG to Android VectorDrawable XML resource file http://inloop.github.io/svg2android
+
+###### [shadow4android](https://github.com/inloop/shadow4android)
+Android 9-patch shadow generator http://inloop.github.io/shadow4android/
 
 
 #### Parse Json Tool
