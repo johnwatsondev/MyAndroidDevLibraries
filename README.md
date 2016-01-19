@@ -190,6 +190,12 @@ A plugin for Android Studio and Intellij IDEA that speeds up your day to day and
 根据Gson库使用的要求,将JSONObject格式的String 解析成实体
 
 
+#### Icons
+
+###### [Android-Iconics](https://github.com/mikepenz/Android-Iconics)
+Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application. http://mikepenz.github.io/Android-Iconics
+
+
 #### Utils
 
 ###### [standardlib](https://github.com/stablekernel/standardlib)
