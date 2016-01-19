@@ -4,9 +4,6 @@ A small utility to record Android device screen to a GIF
 ###### [androidtool-mac](https://github.com/mortenjust/androidtool-mac)
 One-click screenshots, video recordings, app installation for iOS and Android
 
-###### [rxmarbles](https://github.com/staltz/rxmarbles)
-Interactive diagrams of Rx Observables http://www.rxmarbles.com
-
 ###### [LicensesDialog](https://github.com/PSDev/LicensesDialog)
 An open source library to display licenses of third-party libraries in an Android app.
 
