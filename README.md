@@ -1,5 +1,4 @@
-###### [LicensesDialog](https://github.com/PSDev/LicensesDialog)
-An open source library to display licenses of third-party libraries in an Android app.
+#### Sundry
 
 ###### [Foredroid](https://github.com/steveliles/Foredroid)
 Utility for detecting and notifying when your Android app goes background / becomes foreground
@@ -7,8 +6,18 @@ Utility for detecting and notifying when your Android app goes background / beco
 ###### [Once](https://github.com/jonfinerty/Once)
 A small Android library to manage one-off operations.
 
+
+#### License
+
+###### [LicensesDialog](https://github.com/PSDev/LicensesDialog)
+An open source library to display licenses of third-party libraries in an Android app.
+
+
+#### Interview
+
 ###### [interviewproblems](https://github.com/techpanja/interviewproblems)
 Tackling various problems asked in technical interviews
+
 
 #### Mock Server
 
