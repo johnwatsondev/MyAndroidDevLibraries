@@ -200,3 +200,6 @@ Android-Iconics - Use any icon font, or vector (.svg) as drawable in your applic
 
 ###### [standardlib](https://github.com/stablekernel/standardlib)
 The missing Android framework classes
+
+#### Crash
+[CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash)
