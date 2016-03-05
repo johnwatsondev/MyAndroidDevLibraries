@@ -6,6 +6,8 @@ Utility for detecting and notifying when your Android app goes background / beco
 ###### [Once](https://github.com/jonfinerty/Once)
 A small Android library to manage one-off operations.
 
+###### [toggle](https://github.com/s0h4m/toggle)
+A library to add Feature-Toggle capability to your android app http://s0h4m.github.io/toggle/
 
 #### License
 
