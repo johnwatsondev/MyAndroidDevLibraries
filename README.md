@@ -150,6 +150,8 @@ A logger with a small, extensible API which provides utility on top of Android's
 ###### [hugo](https://github.com/JakeWharton/hugo)
 Annotation-triggered method call logging for your debug builds.
 
+##### [galgo](https://github.com/inaka/galgo)
+When you want your logs to be displayed on screen
 
 #### Parceler
 
