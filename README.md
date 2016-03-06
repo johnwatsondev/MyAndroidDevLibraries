@@ -116,6 +116,8 @@ Sample project to demonstrate how to unit test observables and subscriptions
 ###### [unmock-plugin](https://github.com/bjoernQ/unmock-plugin)
 Gradle plugin to be used in combination with the new unit testing feature of the Gradle Plugin / Android Studio to use real classes for e.g. SparseArray.
 
+###### [appium](https://github.com/appium/appium)
+Automation for iOS and Android Apps. http://appium.io/
 
 #### Decompile
 
@@ -152,7 +154,7 @@ A logger with a small, extensible API which provides utility on top of Android's
 ###### [hugo](https://github.com/JakeWharton/hugo)
 Annotation-triggered method call logging for your debug builds.
 
-##### [galgo](https://github.com/inaka/galgo)
+###### [galgo](https://github.com/inaka/galgo)
 When you want your logs to be displayed on screen
 
 #### Parceler
