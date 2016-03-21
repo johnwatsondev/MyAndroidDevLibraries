@@ -44,6 +44,13 @@ A Gradle plugin to report the number of method references in your APK on every b
 ###### [apk-method-count](https://github.com/inloop/apk-method-count)
 Output per-package method counts in Android APK
 
+#### Improve Efficiency Tool
+
+###### [butterknife](https://github.com/JakeWharton/butterknife)
+*NOTE: setup Annotation Processors*
+> File -> Other Settings -> Default Settings Compiler -> Annotation Processors -> Check Enable annotation processing
+Credit:http://stackoverflow.com/a/28139029/3171537
+
 
 #### Handy Tool
 
