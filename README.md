@@ -1,5 +1,8 @@
 #### Sundry
 
+###### [Foredroid](https://github.com/Runscope/httpbin)
+HTTP Request & Response Service, written in Python + Flask. http://httpbin.org
+
 ###### [Foredroid](https://github.com/steveliles/Foredroid)
 Utility for detecting and notifying when your Android app goes background / becomes foreground
 
