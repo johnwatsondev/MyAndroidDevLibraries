@@ -12,6 +12,11 @@ A small Android library to manage one-off operations.
 ###### [toggle](https://github.com/s0h4m/toggle)
 A library to add Feature-Toggle capability to your android app http://s0h4m.github.io/toggle/
 
+#### Profile
+
+###### [ikusth](https://github.com/tuenti/ikusth)
+Threads dependency graph generator (processing traces.txt file)
+
 #### Timezone
 
 ###### [ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP)
