@@ -34,6 +34,11 @@ An open source library to display licenses of third-party libraries in an Androi
 Tackling various problems asked in technical interviews
 
 
+#### Mock Weak Network
+
+###### [augmented-traffic-control](https://facebook.github.io/augmented-traffic-control/)
+A tool to simulate network conditions.
+
 #### Mock Server
 
 ###### [json-server](https://github.com/typicode/json-server)
