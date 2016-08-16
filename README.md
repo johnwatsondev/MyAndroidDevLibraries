@@ -12,6 +12,11 @@ A small Android library to manage one-off operations.
 ###### [toggle](https://github.com/s0h4m/toggle)
 A library to add Feature-Toggle capability to your android app http://s0h4m.github.io/toggle/
 
+#### RecyclerView
+
+###### [RecyclerViewTools](https://github.com/eyeem/RecyclerViewTools)
+Collection of tools for RecyclerView. Includes headers, sections, pull to refresh, etc
+
 #### Profile
 
 ###### [ikusth](https://github.com/tuenti/ikusth)
@@ -228,6 +233,9 @@ Android-Iconics - Use any icon font, or vector (.svg) as drawable in your applic
 
 
 #### Utils
+
+###### [AndroidBaseUtils](https://github.com/TheFinestArtist/AndroidBaseUtils)
+Context free and basic utils to build Android project conveniently
 
 ###### [standardlib](https://github.com/stablekernel/standardlib)
 The missing Android framework classes
