@@ -1,3 +1,6 @@
+### [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
+Awesome Android references for everything like best practices, performance optimization, etc.
+
 #### Sundry
 
 ###### [Foredroid](https://github.com/Runscope/httpbin)
