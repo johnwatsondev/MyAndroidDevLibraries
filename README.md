@@ -47,6 +47,11 @@ An open source library to display licenses of third-party libraries in an Androi
 Tackling various problems asked in technical interviews
 
 
+#### Network
+
+##### [NetCipher](https://github.com/guardianproject/NetCipher)
+Network Security and Proxy Library for Android https://guardianproject.info/code/netcipher
+
 #### Mock Weak Network
 
 ###### [augmented-traffic-control](https://facebook.github.io/augmented-traffic-control/)
