@@ -1,6 +1,7 @@
 ### [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
 Awesome Android references for everything like best practices, performance optimization, etc.
 
+
 #### Sundry
 
 ###### [Foredroid](https://github.com/Runscope/httpbin)
@@ -15,20 +16,24 @@ A small Android library to manage one-off operations.
 ###### [toggle](https://github.com/s0h4m/toggle)
 A library to add Feature-Toggle capability to your android app http://s0h4m.github.io/toggle/
 
+
 #### RecyclerView
 
 ###### [RecyclerViewTools](https://github.com/eyeem/RecyclerViewTools)
 Collection of tools for RecyclerView. Includes headers, sections, pull to refresh, etc
+
 
 #### Profile
 
 ###### [ikusth](https://github.com/tuenti/ikusth)
 Threads dependency graph generator (processing traces.txt file)
 
+
 #### Timezone
 
 ###### [ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP)
 An adaptation of the JSR-310 backport for Android.
+
 
 #### License
 
@@ -46,6 +51,7 @@ Tackling various problems asked in technical interviews
 
 ###### [augmented-traffic-control](https://facebook.github.io/augmented-traffic-control/)
 A tool to simulate network conditions.
+
 
 #### Mock Server
 
@@ -152,6 +158,7 @@ Gradle plugin to be used in combination with the new unit testing feature of the
 ###### [appium](https://github.com/appium/appium)
 Automation for iOS and Android Apps. http://appium.io/
 
+
 #### Decompile
 
 ###### [android-classyshark](https://github.com/google/android-classyshark)
@@ -190,6 +197,7 @@ Annotation-triggered method call logging for your debug builds.
 ###### [galgo](https://github.com/inaka/galgo)
 When you want your logs to be displayed on screen
 
+
 #### Parceler
 
 ###### [parceler](https://github.com/johncarl81/parceler)
@@ -206,9 +214,6 @@ Phrase is an Android string resource templating library
 
 ###### [vb-android-app-quality](https://github.com/vincentbrison/vb-android-app-quality)
 Sample android project using Gradle, with basic quality tools set up.
-
-###### [Android-Device-Compatibility](https://github.com/mixi-inc/Android-Device-Compatibility)
-Compatibility package project for android device difference.
 
 
 #### AS Plugins
@@ -229,12 +234,6 @@ A plugin for Android Studio and Intellij IDEA that speeds up your day to day and
 根据Gson库使用的要求,将JSONObject格式的String 解析成实体
 
 
-#### Icons
-
-###### [Android-Iconics](https://github.com/mikepenz/Android-Iconics)
-Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application. http://mikepenz.github.io/Android-Iconics
-
-
 #### Utils
 
 ###### [AndroidBaseUtils](https://github.com/TheFinestArtist/AndroidBaseUtils)
@@ -246,5 +245,9 @@ The missing Android framework classes
 ###### [deviceinfo](https://github.com/eyeem/deviceinfo)
 Easy info about Android device
 
+
 #### Crash
-[CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash)
+
+##### [CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash)
+
+
