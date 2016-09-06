@@ -187,6 +187,9 @@ proguard resource for Android by wechat team
 ###### [Prism](https://github.com/StylingAndroid/Prism)
 A dynamic colouring library for Android
 
+###### [metadata-extractor](https://github.com/drewnoakes/metadata-extractor)
+Extracts Exif, IPTC, XMP, ICC and other metadata from image files
+
 
 #### Log
 
